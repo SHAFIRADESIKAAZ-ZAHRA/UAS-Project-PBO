@@ -1,6 +1,12 @@
-# UAS-Project-PBO
+# UAS-Project-PBO-Pembelian Aplikasi Premium
 ## Nama : Shafira Desika Az-zahra
 ## NPM : 4522210084
+
+### Project Pembelian Aplikasi Premium
+Menonton film merupakan salah satu kegiatan yang banyak dilakukan orang baik kalangan muda hingga tua untuk menghabiskan waktu di rumah, tetapi sebagian orang mungkin mengalami kendala dalam memperoleh akses ke film-film premium yang diinginkan. Banyaknya aplikasi penyedia film yang berbayar membuat pengguna harus berkali-kali melakukan pembayaran di aplikasi yang berbeda-beda. Dalam project ini terdapat beberapa data yang disimpan yaitu daftar harga aplikasi, akun client, transaksi pembelian, dan top up saldo.
+
+### Diagram Class
+![pbo (2)](https://github.com/SHAFIRADESIKAAZ-ZAHRA/UAS-Project-PBO/assets/148334075/9bf5ac5c-46f5-4e12-a8e6-fa10c798a5f6)
 
 ### Hasil Run
 ![Hasil Run 1](https://github.com/SHAFIRADESIKAAZ-ZAHRA/UAS-Project-PBO/assets/148334075/e9193ae1-4a54-4848-acc0-f27ba4d5ecb5)
